@@ -1,0 +1,8 @@
+
+.vs
+obj
+bin
+*.txt
+*.CSV
+*.naf
+*.inf
