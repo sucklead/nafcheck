@@ -14,8 +14,8 @@ namespace nafcheck
             string inputFile = args[0];
             string monitorFile = args[1];
 
-            inputFile = @"D:\tools\Naf\NifExport.pc.naf";
-            monitorFile = @"D:\tools\Naf\NifExport.pc.naf.CSV";
+            inputFile = @"S:\workspaces\nafcheck\NifExport.pc.naf";
+            monitorFile = @"S:\workspaces\nafcheck\NifExport.pc.naf.CSV";
 
             Console.WriteLine("Parsing file...");
 
